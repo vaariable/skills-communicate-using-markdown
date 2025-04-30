@@ -5,3 +5,8 @@ this is mario content
 this is luigi content
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## heres part of a random code
+``` javascript
+var myVar = "Hello, world!";
+```
