@@ -10,3 +10,7 @@ this is luigi content
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## tutorial progress
+- [x] some of the tutorial is done
+- [ ] all of the tutorial is done
